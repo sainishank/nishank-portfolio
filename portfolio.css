@@ -294,6 +294,9 @@
     .abo{
         display: block;
     }
+   .about{
+        height: 900px;
+    }
     .about1{
         float: inline;
         width: 100%;
